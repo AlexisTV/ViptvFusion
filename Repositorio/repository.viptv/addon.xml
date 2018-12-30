@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.viptv" name="[COLOR lime]viptv[/COLOR] Repo" version="5.5" provider-name="AlexisTV">
-    <extension point="xbmc.addon.repository" name="AlexisTV">
+<addon id="repository.viptv" name="[COLOR lime]viptv[/COLOR] Repo" version="1.23" provider-name="AlexisTV">
+    <extension point="xbmc.addon.repository" name="viptv">
         <info>https://raw.githubusercontent.com/AlexisTV/ViptvFusion/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/AlexisTV/ViptvFusion/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
