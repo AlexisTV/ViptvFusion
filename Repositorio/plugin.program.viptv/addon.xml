@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="VIPTV ASTRO" name="VIPTV [COLOR crimson]ASTRO[/COLOR]" version="2.7" provider-name="VIPTV">
+<addon id="plugin.program.viptv" name="VIPTV [COLOR crimson]ASTRO[/COLOR]" version="2.9" provider-name="AlexisTv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -14,9 +14,3 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<extension point="xbmc.addon.repository" name="AlexisTV">
-        <info>https://raw.githubusercontent.com/AlexisTV/ViptvFusion/master/Repositorio/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/AlexisTV/ViptvFusion/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
-    </extension>
